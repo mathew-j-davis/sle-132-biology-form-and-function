@@ -47,16 +47,13 @@ d -> "glass lizards" :w
 
 ```
 
-A phylogeny is a useful tool to organise a [[taxonomy]] of complex multicellular organisms. [[Horizontal genetic transfer]] creates complex evolutionary relationships in which a species may be connected by more than one path. 
+A phylogeny is a useful tool to organise a [[taxonomy]] of complex multicellular organisms. [Horizontal genetic transfer](horizontal-genetic-transfer.md) creates complex evolutionary relationships in which a species may be connected by more than one path. 
 
 "Sequence comparisons suggest recent horizontal transfer of many genes among diverse species including across the boundaries of phylogenetic 'domains'. Thus determining the phylogenetic history of a species can not be done conclusively by determining evolutionary trees for single genes." <sup id="a1">[1](#f1)</sup>
 
 <br>
 
 See:
-[[Systematics | "./systematics.md"]]
-[[systematics.md]]
-[[systematics]]
 [systematics](systematics.md)
 <br>
 

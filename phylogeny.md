@@ -54,7 +54,7 @@ A phylogeny is a useful tool to organise a [[taxonomy]] of complex multicellular
 <br>
 
 See:
-[[Systematics|systematics.md]]
+[[Systematics | systematics.md]]
 
 <br>
 

@@ -26,14 +26,3 @@ Archived from the original on 2016-03-04. Retrieved 2015-08-20.
 
  [^](#a1)
 
-You can also put the [link URL][1] below the current paragraph
-like [this][2].
-
-   [1]: http://url
-   [2]: http://another.url "A funky title"
-
-  Or you can use a [shortcut][] reference, which links the text
-"shortcut" to the link named "[shortcut]" on the next paragraph.
-
-[shortcut]: http://goes/with/the/link/name/text
-

@@ -77,11 +77,12 @@ Archived from the original on 2016-03-04. Retrieved 2015-08-20.
 
 
 
-Link can be present in [text](systematics.md) or on a special list.
+Link can be present in [systematics](systematics.md) or on a special list.
 
 ## Linked
 
-- [Second](./systematics.md)
+- [[[systematics]]
+
 
 Named reference can also be used, like this: [systematics].
 

@@ -60,6 +60,9 @@ See:
 
 <br>
 
+
+
+
 <sub id="f1">1</sub>
 "Ulrich Melcher (2001) "Molecular genetics: Horizontal gene transfer," Oklahoma State University (Stillwater, Oklahoma USA)". 
 
@@ -72,6 +75,17 @@ Archived from the original on 2016-03-04. Retrieved 2015-08-20.
  [↩](#a1)
 
 
+
+
+Link can be present in [text](first.md) or on a special list.
+
+## Linked
+
+- [Second](./2.md)
+
+Named reference can also be used, like this: [Reference].
+
+[reference]: ref.md
 
 
 

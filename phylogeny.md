@@ -14,9 +14,8 @@ As understanding of phylogeny and agreed taxonomy are refined over time they wil
  "Sequence comparisons suggest recent horizontal transfer of many genes among diverse species including across the boundaries of phylogenetic 'domains'. Thus determining the phylogenetic history of a species can not be done conclusively by determining evolutionary trees for single genes." <sup id="a1">[1](#f1)</sup>
 
 See:
-[[systematics]]
 
-[systematics] : systematics.md
+- [Systematics](systematics.md)
 
 <sub id="f1">1</sub>
 "Ulrich Melcher (2001) "Molecular genetics: Horizontal gene transfer," Oklahoma State University (Stillwater, Oklahoma USA)". 

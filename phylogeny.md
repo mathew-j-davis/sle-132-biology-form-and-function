@@ -2,9 +2,10 @@
 
 Phylogeny is the history of evolutionary development of a species of group of organisms.
 
-![phylogenetic tree](./phylogenetic-tree.png)
+## Phylogenetic Tree
+![phylogenetic tree](./phylogenetic-tree.svg)
 
-These relationships can be depicted as a phylogenetic tree.
+These relationships can be depicted as a *phylogenetic tree.* 
 Phylogenetic trees of complex multicellular organisms typically depict ancestral relationships as a directed acyclic graph,
 which corresponds well to species taxonomy.
 As understanding of phylogeny and agreed taxonomy are refined over time they will not always be in exact agreement.

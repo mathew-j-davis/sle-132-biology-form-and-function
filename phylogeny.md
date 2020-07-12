@@ -54,9 +54,6 @@ A phylogeny is a useful tool to organise a [[taxonomy]] of complex multicellular
 <br>
 
 See:
-[systematics](./systematics.md)
-[[systematics]](systematics.md)
-[systematics]: systematics.md
 
 <br>
 
@@ -76,16 +73,19 @@ Archived from the original on 2016-03-04. Retrieved 2015-08-20.
 
 
 
+[[systematics]]
 
-Link can be present in [text](first.md) or on a special list.
+
+
+Link can be present in [text](systematics.md) or on a special list.
 
 ## Linked
 
-- [Second](./2.md)
+- [Second](./systematics.md)
 
-Named reference can also be used, like this: [Reference].
+Named reference can also be used, like this: [systematics].
 
-[reference]: ref.md
+[systematics]: systematics.md
 
 
 

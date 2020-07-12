@@ -74,19 +74,7 @@ Archived from the original on 2016-03-04. Retrieved 2015-08-20.
 
 [[systematics]]
 
-
-[alternate](systematics.md)
-
-Link can be present in [systematics](systematics.md) or on a special list.
-
-## Linked
-
-- 
-
-
-Named reference can also be used, like this: [systematics].
-
-
+[systematics]: systematics.md
 
 
 

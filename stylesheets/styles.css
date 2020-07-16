@@ -283,6 +283,10 @@ footer {
   }
 }
 
+.faint {
+  color:#ddd;
+}
+
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;

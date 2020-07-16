@@ -8,4 +8,5 @@ include:
 
 theme: jekyll-theme-minimal
 
- show_downloads: false
+show_downloads: false
+google_analytics: false

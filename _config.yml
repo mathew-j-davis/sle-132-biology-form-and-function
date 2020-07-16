@@ -8,6 +8,7 @@ include:
 
 theme: jekyll-theme-minimal
 
-show_downloads: false
-google_analytics: false
-is_project_page: false
+github:
+  show_downloads: false
+  google_analytics: false
+  is_project_page: false

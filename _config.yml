@@ -6,7 +6,6 @@ relative_links:
 include:
   - README.md
 
-remote_theme: mathew-j-davis/jekyll-true-minimal
 
 github:
   show_downloads: false

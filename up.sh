@@ -7,5 +7,7 @@ if [ -z "$1" ]
     MESSAGE="$1"
 fi
 
+node ./toc.js
 git add .
 git commit -m '$MESSAGE'
+git push

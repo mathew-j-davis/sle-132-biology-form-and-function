@@ -47,7 +47,7 @@ body {
   box-sizing: border-box;
   color:#373737;
   background: #fff;
-  font-size: 16px;
+  font-size: 18px;
   font-family: 'Cormorant Garamond', serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -272,10 +272,11 @@ Full-Width Styles
 
 #header_wrap {
   all: unset;
+  text-align: left;
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  padding: 10px 10px 30px 10px;
 }
 
 #project_title {

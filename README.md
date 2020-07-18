@@ -4,9 +4,6 @@
 [Horizontal Genetic-transfer](horizontal-genetic-transfer.md)
 
 
-[Index](index.md)
-
-
 [Phylogenetic Tree](phylogenetic-tree.md)
 
 

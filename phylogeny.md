@@ -25,8 +25,8 @@ Similarities from convergent evolution are *analogies*
 
 
 
-#### 1
-<sub id="f1">1</sub>
+
+###### 1
 "Ulrich Melcher (2001) "Molecular genetics: Horizontal gene transfer," Oklahoma State University (Stillwater, Oklahoma USA)". 
 via Wikipedia :
 Taken from Wikipedia Retrieved 2020-07-12 

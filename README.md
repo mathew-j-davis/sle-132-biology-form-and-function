@@ -1,18 +1,6 @@
 [Binomial Nomenclature](binomial-nomenclature.md)
 
 
-[Foam Tips](cull/foam-tips.md)
-
-
-[Inbox](cull/inbox.md)
-
-
-[Readme](cull/readme.md)
-
-
-[Todo](cull/todo.md)
-
-
 [Horizontal Genetic-transfer](horizontal-genetic-transfer.md)
 
 

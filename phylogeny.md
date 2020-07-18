@@ -19,6 +19,7 @@ Phylogenies are inferred from genotype and phenotype.
 Inherited genotype and phenotype are *homologies*
 
 Similarities from convergent evolution are *analogies*
+
 [Horizontal genetic transfer](horizontal-genetic-transfer.md) creates complex evolutionary relationships in which a species may be connected by more than one path. 
 
  "Sequence comparisons suggest recent horizontal transfer of many genes among diverse species including across the boundaries of phylogenetic 'domains'. Thus determining the phylogenetic history of a species can not be done conclusively by determining evolutionary trees for single genes." <sup id="a1">[1](#ref-1)</sup>

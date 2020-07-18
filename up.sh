@@ -9,5 +9,5 @@ fi
 
 node ./toc.js > ./README.md
 git add .
-git commit -m '$MESSAGE'
+git commit -m "$MESSAGE"
 git push

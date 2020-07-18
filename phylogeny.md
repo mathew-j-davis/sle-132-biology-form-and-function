@@ -21,13 +21,13 @@ Inherited genotype and phenotype are *homologies*
 Similarities from convergent evolution are *analogies*
 [Horizontal genetic transfer](horizontal-genetic-transfer.md) creates complex evolutionary relationships in which a species may be connected by more than one path. 
 
- "Sequence comparisons suggest recent horizontal transfer of many genes among diverse species including across the boundaries of phylogenetic 'domains'. Thus determining the phylogenetic history of a species can not be done conclusively by determining evolutionary trees for single genes." <sup id="a1">[1](#1)</sup>
+ "Sequence comparisons suggest recent horizontal transfer of many genes among diverse species including across the boundaries of phylogenetic 'domains'. Thus determining the phylogenetic history of a species can not be done conclusively by determining evolutionary trees for single genes." <sup id="a1">[1](#ref-1)</sup>
 
 
 
 ----
 
-<sub id="1">1</sub>  "Ulrich Melcher (2001) "Molecular genetics: Horizontal gene transfer," Oklahoma State University (Stillwater, Oklahoma USA)". 
+<sup id="ref-1">1</sup>  "Ulrich Melcher (2001) "Molecular genetics: Horizontal gene transfer," Oklahoma State University (Stillwater, Oklahoma USA)". 
 via Wikipedia :
 Taken from Wikipedia Retrieved 2020-07-12 
 https://en.wikipedia.org/wiki/Horizontal_gene_transfer 

@@ -12,12 +12,17 @@ String.prototype.toTitleCase = function () {
 }
 
 
-function toc (){
+function toc (recurse){
 // TODO create separate read me creation for each recursive directory
 const { exec } = require('child_process');
 
 try {
-  exec('find . \( ! -regex \'.*/\\..*\' \) -name \'*.md\'  ' , (err, listing, stderr) => {
+  var command = 'find . \( ! -regex \'.*\' \) -name \'*.md\'  ' ;
+
+  if (recurse){
+    command = 'find . \( ! -regex \'.*/\\..*\' \) -name \'*.md\'  ' ;
+  }
+  exec(command , (err, listing, stderr) => {
 
     if (err) {
       // node couldn't execute the command
@@ -52,4 +57,4 @@ catch(e){
 }
 
 
-toc();
+toc(true);

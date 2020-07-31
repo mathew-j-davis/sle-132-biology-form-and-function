@@ -1,24 +1,25 @@
-[Binomial Nomenclature](binomial-nomenclature.md)
 
 
-[Convergent Evolution](convergent-evolution.md)
+
+[BinomialNomenclature](binomial-nomenclature.md)
 
 
-[Horizontal Genetic-transfer](horizontal-genetic-transfer.md)
+[ConvergentEvolution](convergent-evolution.md)
 
 
-[Notes](NOTES.md)
+[HorizontalGeneticTransfer](horizontal-genetic-transfer.md)
+
+
+[NOTES](NOTES.md)
 
 
 [Phylogeny](phylogeny.md)
 
 
-[Readme](README.md)
+[README](README.md)
 
 
 [Systematics](systematics.md)
 
 
 [Taxonomy](taxonomy.md)
-
-

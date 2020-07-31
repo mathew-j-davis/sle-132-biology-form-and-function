@@ -57,7 +57,7 @@ function namelinkmd {
   
   name="${name//$space/$empty}"
 
-  echo '('$name")["$input"]"
+  echo '['$name"]("$input")"
 
 return 
 }
@@ -65,7 +65,7 @@ return
 function e {
 
   output=""
-  separator=$'\n\n\n- '
+  separator=$'\n\n\n'
   for d in "$1"*
   do
 

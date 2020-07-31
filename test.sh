@@ -57,7 +57,7 @@ function namelinkmd {
   
   name="${name//$space/$empty}"
 
-  echo '('$name")['"$input"']"
+  echo '('$name")["$input"]"
 
 return 
 }

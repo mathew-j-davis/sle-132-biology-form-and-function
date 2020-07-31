@@ -55,7 +55,12 @@ function namelinkmd {
 
   done;  
   
-  name="${name//$space/$empty}"
+  if [[ $name =~ (.*)[[:space:]]$ ]]; then
+    name="${BASH_REMATCH[1]}"
+    echo "!"
+  fi
+echo $name
+
 
   echo '['$name"]("$input")"
 
